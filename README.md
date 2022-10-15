@@ -1,1 +1,1 @@
-# Currículum Vitae - Víctor Palomares
+# CV - Víctor Palomares González
