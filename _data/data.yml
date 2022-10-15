@@ -42,6 +42,7 @@ sidebar:
         - idiom: • Anglès
           level: B2 - FCE
 
+    altres-dades:
       - item: • Disposició de la targeta acreditativa de discapacitat física del 33% sense barem de mobilitat ni necessitat de 3ª persona.
         link:
       - item: • Tasques administratives i tècniques a l'empresa familiar.
@@ -102,23 +103,12 @@ experiences:
 
 publications:
     title: Altres dades
-    intro: |
-
     papers:
       - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 footer: >
     <b>Darrera actualització</b>: mitjans d'octubre de 2022
