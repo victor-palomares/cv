@@ -60,22 +60,12 @@ education:
         university: Universitat de Vic—Universitat Central de Catalunya
         time: 2013 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-      - degree: Grau en Mestre d'Educació Infantil* (menció en Llengua Anglesa)
+          
+      - degree: Grau en Mestre d'Educació Infantil * (menció en Llengua Anglesa)
         university: Universitat de Vic—Universitat Central de Catalunya
         time: 2013 - maig de 2023 (* només manquen els crèdits relacionats amb el Treball de Fi de Grau)
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
+          
 experiences:
     title: Experiència
     info:
