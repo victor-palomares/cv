@@ -1,23 +1,32 @@
 {% assign altres-dades = site.data.data.altres-dades %}
 {% if altres-dades %}
-  {% if site.data.data.sidebar.altres-dades %}
-  <div class="altres-dades-container container-block">
+<section class="section altres-dades-section">
 
-    <h2 class="container-block-title">
-      {{ altres-dades.title }}
-    </h2>
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ altres-dades.title }}
+  </h2>
 
-    <ul class="list-unstyled altres-dades-list">
-      {% for altres-dades in altres-dades.info %}
+  {% if altres-dades.intro %}
+  <div class="intro">
+    {{ altres-dades.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
 
-        {% if altres-dades.link %}
-        <li><a href="{{ altres-dades.link }}">{{ altres-dades.item }}</a></li>
-        {% else %}
-        <li>{{ altres-dades.item }}</li>
-        {% endif %}
+  {% for publication in altres-dades.papers %}
+  <div class="item">
+    {% if publication.link %}
+      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% else %}
+      <li>{{ publication.title }}</li>
+    {% endif %}
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
 
-      {% endfor %}
-    </ul>
-
-  </div><!--//altres-dades-->
+</section><!--//section-->
 {% endif %}
