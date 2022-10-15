@@ -1978,7 +1978,7 @@ readers do not read off random characters that represent icons */
 .fa-list-ul:before {
   content: "\f0ca"; }
 
-.fa-location-dot:before {
+.fa-location-arrow:before {
   content: "\f124"; }
 
 .fa-lock:before {
