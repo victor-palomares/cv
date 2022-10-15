@@ -56,14 +56,14 @@ career-profile:
 education:
     title: Educació
     info:
-      - degree: Grau en Mestre d'Educació Primària (menció en Llengua Anglesa)
+      - degree: Grau en Mestre d'Educació Primària - menció en Llengua Anglesa
         university: Universitat de Vic—Universitat Central de Catalunya
         time: 2013 - 2022
         details: |
 
-      - degree: Grau en Mestre d'Educació Infantil * (menció en Llengua Anglesa)
+      - degree: Grau en Mestre d'Educació Infantil - menció en Llengua Anglesa (*)
         university: Universitat de Vic—Universitat Central de Catalunya
-        time: 2013 - maig de 2023
+        time: 2013 - 2023
         details: (*) només manquen els crèdits relacionats amb el Treball de Fi de Grau
 experiences:
     title: Experiència
