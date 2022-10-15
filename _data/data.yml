@@ -5,7 +5,6 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    altres-dades: False # same as 'education'
 
     # Profile information
     name: Víctor Palomares González
@@ -41,18 +40,6 @@ sidebar:
 
         - idiom: • Anglès
           level: B2 - FCE
-
-    altres-dades:
-      - item: • Disposició de la targeta acreditativa de discapacitat física del 33% sense barem de mobilitat ni necessitat de 3ª persona.
-        link:
-      - item: • Tasques administratives i tècniques a l'empresa familiar.
-        link:
-      - item: • Carnet B i vehicle propi.
-        link:
-      - item: • Alts coneixements informàtics.
-        link:
-      - item: • Títol "Google Analytics Individual Qualification (IQ)" per MIDE y Vencerás a la Universitat Pompeu Fabra (curs 2019).
-        link:
 
 education:
     title: Educació
@@ -101,7 +88,7 @@ experiences:
           Observació a Cicle Inicial
            - Acompanyant, majoritàriament, un dels dos grups de 2n de Primària.
 
-publications:
+altres-dades:
     title: Altres dades
     papers:
       - title: The Art of Computer Programming
