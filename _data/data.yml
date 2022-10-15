@@ -17,18 +17,18 @@ sidebar:
     phone: 625 389 929
     linkedin:
     website: #do not add http://
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://victor-palomares.github.io/print
 
     languages:
       title: Llengües
       info:
-        - idiom: Català
+        - idiom: • Català
           level: nadiu
 
-        - idiom: Castellà
+        - idiom: • Castellà
           level: nadiu
 
-        - idiom: Anglès
+        - idiom: • Anglès
           level: B2 - FCE
 
     interests:
