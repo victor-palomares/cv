@@ -20,16 +20,16 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Llengües
       info:
-        - idiom: English
-          level: Native
+        - idiom: Català
+          level: Nadiu
 
-        - idiom: French
-          level: Professional
+        - idiom: Castellà
+          level: Nadiu
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Anglès
+          level: B2 (FCE)
 
     interests:
       title: Interests
