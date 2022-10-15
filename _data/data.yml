@@ -50,8 +50,8 @@ career-profile:
 education:
     title: Educació
     info:
-      - degree: MSc in Computer Science
-        university: Universitat de Vic - Universitat Central de Catalunya
+      - degree: Grau en Mestre d'Educació Primària
+        university: Universitat de Vic—Universitat Central de Catalunya
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -60,8 +60,8 @@ education:
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Universitat de Vic - Universitat Central de Catalunya
+      - degree: Grau en Mestre d'Educació Infantil
+        university: Universitat de Vic—Universitat Central de Catalunya
         time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
