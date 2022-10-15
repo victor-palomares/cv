@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Víctor Palomares González
@@ -65,7 +65,7 @@ education:
         university: Universitat de Vic—Universitat Central de Catalunya
         time: 2013 - maig de 2023 (* només manquen els crèdits relacionats amb el Treball de Fi de Grau)
         details: |
-        
+
 experiences:
     title: Experiència
     info:
@@ -112,22 +112,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 50%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 50%
 
       - name: Angular
-        level: 98%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 50%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 50%
 
 footer: >
     <b>Darrera actualització</b>: mitjans d'octubre de 2022
