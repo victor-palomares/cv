@@ -7,12 +7,12 @@
   </h2>
 
   <ul class="list-unstyled perfil-list">
-    {% for interest in perfil.info %}
+    {% for perfil in perfil.info %}
 
-      {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
+      {% if perfil.link %}
+      <li><a href="{{ perfil.link }}">{{ perfil.item }}</a></li>
       {% else %}
-      <li>{{ interest.item }}</li>
+      <li>{{ perfil.item }}</li>
       {% endif %}
 
     {% endfor %}
