@@ -42,9 +42,6 @@ sidebar:
         - idiom: • Anglès
           level: B2 - FCE
 
-altres-dades:
-    title: Altres dades
-    info:
       - item: • Disposició de la targeta acreditativa de discapacitat física del 33% sense barem de mobilitat ni necessitat de 3ª persona.
         link:
       - item: • Tasques administratives i tècniques a l'empresa familiar.
@@ -102,13 +99,9 @@ experiences:
         details: |
           Observació a Cicle Inicial
            - Acompanyant, majoritàriament, un dels dos grups de 2n de Primària.
-           
+
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Altres dades
     papers:
       - title: The Art of Computer Programming
         link: "#"
